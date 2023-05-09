@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "redemption",
+      "snippet": "A man's return to do what he loves most",
+      "author": "Stevepurpose"
+    },
+    {
+      "id": 2,
+      "title": "Yxng denzel",
+      "snippet": "A study on self worth",
+      "author": "jude Abaga"
+    },
+    {
+      "title": "sidelines",
+      "snippet": "reminiscing before his growth",
+      "author": "JCole",
+      "id": 3
+    },
+    {
+      "title": "Blueprint 3",
+      "snippet": "death of autotune.",
+      "author": "sean carter",
+      "id": 4
+    },
+    {
+      "title": "castle walls",
+      "snippet": "everyone thinks that i have it all but its so empty living behind these castle walls",
+      "author": "TI ",
+      "id": 5
+    },
+    {
+      "title": "cole world",
+      "snippet": "A man's first major body of work announcing him on the international stage",
+      "author": "jermaine cole",
+      "id": 6
+    }
+  ]
+}

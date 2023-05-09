@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+
+form{
+  display: grid;
+  width: 50%;
+  margin:auto;
+}
+
+.form-control{
+  border: 1px solid white;
+  
+}
+
+#but-Form{
+  width: 40%;
+  color: black;
+  background-color:rosybrown;
+}
+
+input{
+  margin-bottom: 20px;
+  color: red;
+  height: 30px;
+}
+
+textarea{
+  margin-bottom: 20px;
+  color: red;
+  height: 60px;
+}
+
+
+.per-article{
+  border: 5px solid gainsboro;
+  box-shadow: 5px 5px 5px gainsboro;
+}
